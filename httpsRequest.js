@@ -28,5 +28,3 @@ https.get(requestOptions, function (response) {
   });
 
 });
-
-https.request(requestOptions, callback).end();
